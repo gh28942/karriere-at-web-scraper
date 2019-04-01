@@ -22,9 +22,9 @@ pageLimit = 1000
 #3 'fields' arrays because i've noticed that the threads won't open more than 3 browser windos at the same time
 #Change these search terms accordingly
 #Using fewer search terms yields more results on the website, e.g. "Bankwesen" instead of "Finanzen, Bankwesen"
-fields0 = ["Bankwesen", "Management"]#["Informatik", "Assistenz, Verwaltung", "Beratung, Consulting", "Coaching", "Einkauf, Logistik", "Bankwesen", "Management"]
-fields1 = ["Pharma", "Coaching"]#["Gastronomie, Tourismus", "Grafik, Design", "IT, EDV", "Marketing, PR", "Personalwesen", "Pharma", "Produktion, Handwerk"]
-fields2 = ["Rechtswesen", "Sachbearbeitung"]#["Rechnungswesen", "Rechtswesen", "Sachbearbeitung", "Sonstige Berufe", "Technik, Ingenieurwesen", "Verkauf, Kundenbetreuung", "Wissenschaft, Forschung"]
+fields0 = ["Informatik", "Assistenz, Verwaltung", "Beratung, Consulting", "Coaching", "Einkauf, Logistik", "Bankwesen", "Management"]
+fields1 = ["Gastronomie, Tourismus", "Grafik, Design", "IT, EDV", "Marketing, PR", "Personalwesen", "Pharma", "Produktion, Handwerk"]
+fields2 = ["Rechnungswesen", "Rechtswesen", "Sachbearbeitung", "Sonstige Berufe", "Technik, Ingenieurwesen", "Verkauf, Kundenbetreuung", "Wissenschaft, Forschung"]
 #Einzelne Bezirke sind auch möglich:
 bundeslaender = ["Wien und Umgebung", "Wien", "Niederösterreich", "Vorarlberg", "Tirol", "Salzburg", "Oberösterreich", "Kärnten", "Steiermark", "Burgenland"]
 
