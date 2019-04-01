@@ -15,7 +15,7 @@ import sys
 
 
 #You can change these four values (path, limit, fields, locations):
-your_path = ""C:\\path\\for\\result\\CSVs\\""
+your_path = "C:\\path\\for\\result\\CSVs\\"
 #Change pageLimit to a realistic value if you need it (e.g. only the first 5 pages (= ~75 job entries))
 pageLimit = 1000 
 
