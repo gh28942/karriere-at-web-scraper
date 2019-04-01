@@ -25,7 +25,7 @@ pageLimit = 1000
 fields0 = ["Informatik", "Assistenz, Verwaltung", "Beratung, Consulting", "Coaching", "Einkauf, Logistik", "Bankwesen", "Management"]
 fields1 = ["Gastronomie, Tourismus", "Grafik, Design", "IT, EDV", "Marketing, PR", "Personalwesen", "Pharma", "Produktion, Handwerk"]
 fields2 = ["Rechnungswesen", "Rechtswesen", "Sachbearbeitung", "Sonstige Berufe", "Technik, Ingenieurwesen", "Verkauf, Kundenbetreuung", "Wissenschaft, Forschung"]
-#Einzelne Bezirke sind auch möglich:
+#Einzelne Bezirke sind auch möglich
 bundeslaender = ["Wien und Umgebung", "Wien", "Niederösterreich", "Vorarlberg", "Tirol", "Salzburg", "Oberösterreich", "Kärnten", "Steiermark", "Burgenland"]
 
 #Dont change these values:
