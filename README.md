@@ -1,5 +1,5 @@
 # karriere-at-web-scraper
-Uses Python + Selenium to get content from karriere.at and store it in a CSV file.
+Uses Python + Selenium to get content from karriere.at and stores it in a CSV file.
 
 You can see the tool in action here: https://www.youtube.com/watch?v=W5E_H2_ULLA
 
