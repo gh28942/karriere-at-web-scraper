@@ -1,10 +1,10 @@
 # -*- coding: utf-8 -*-
 """
-Created on Sat Mar 30 16:35:55 2019
+Created on Sat Mar 30 16:35:55 2019 
+by http://bit.ly/GerhGithub
 
 @author: GerH
 """
-
 
 from selenium import webdriver
 from time import sleep
