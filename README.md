@@ -1,7 +1,7 @@
 # Karriere(at) Web-Scraper
 Uses Python + Selenium to get content from karriere.at and stores it in a CSV file.
 
-You can see the tool in action here: https://www.youtube.com/watch?v=W5E_H2_ULLA
+You can see this tool in action here: https://www.youtube.com/watch?v=W5E_H2_ULLA
 
 This script is a web scraper that uses Selenium (in Python 3) to get the information (title, url, type (part/full time), salary per month (estimation), experience level, location, date) from job entries on the website karriere.at using a VPN. Multi threading (three threads) is used to reduce the time the web scraping occupies. The information is then stored in CSV files.
 
